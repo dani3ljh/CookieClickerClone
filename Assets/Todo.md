@@ -1,0 +1,2 @@
+- Make Store Prefabs and generate them progromatically
+- Don't count cookies when you press the menu button(s)
